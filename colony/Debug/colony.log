@@ -1,0 +1,9 @@
+﻿  main.cpp
+f:\programowanie\projekt colony\colony\colony\mapgen.h(75): warning C4244: 'return' : conversion from 'WCHAR' to 'char', possible loss of data
+f:\programowanie\projekt colony\colony\colony\mapgen.h(88): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+f:\programowanie\projekt colony\colony\colony\mapgen.h(89): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+f:\programowanie\projekt colony\colony\colony\mapgen.h(90): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+f:\programowanie\projekt colony\colony\colony\mapgen.h(92): warning C4244: 'return' : conversion from 'WCHAR' to 'char', possible loss of data
+f:\programowanie\projekt colony\colony\colony\main.cpp(63): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+  colony.vcxproj -> F:\programowanie\projekt colony\colony\Debug\colony.exe
